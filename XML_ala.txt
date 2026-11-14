@@ -1,1 +1,4 @@
 https://yuohani988-hub.github.io/show/soccer.js
+https://yuohani988-hub.github.io/show/tenis.js
+https://yuohani988-hub.github.io/show/rugby.js
+https://yuohani988-hub.github.io/show/all.js
